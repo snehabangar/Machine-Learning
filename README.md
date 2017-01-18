@@ -3,6 +3,7 @@ This repository contains work done for the Machine Learning Course taught in the
 
 ## Kmeans Clustering
 K-means is one of the simplest unsupervised learning algorithms that solve the well known clustering problem. The procedure follows a simple and easy way to classify a given data set through a certain number of clusters (assume k clusters) fixed a priori. 
+
 **Algorithm Steps** 
 
 1. Place K points into the space represented by the objects that are being clustered. These points represent initial group centroids.
